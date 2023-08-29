@@ -1,0 +1,11 @@
+{
+  "_fv": 34,
+  "_type": "tab",
+  "definition": {
+    "name": "More Metals",
+    "icon": {
+      "value": "CUSTOM:Tungsten"
+    },
+    "showSearch": false
+  }
+}
