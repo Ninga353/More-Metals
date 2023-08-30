@@ -17,6 +17,51 @@
       "locked_code": false,
       "registry_name": "more_metals",
       "path": "~/Tungsten"
+    },
+    {
+      "name": "Tungstenore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenore",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "ToTungsten",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_tungsten",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_block",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "ToTungstenBlock",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_tungsten_block",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "ToTungstenFromBlock",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_tungsten_from_block",
+      "path": "~/Tungsten"
     }
   ],
   "variable_elements": [],
@@ -24,6 +69,8 @@
   "language_map": {
     "en_us": {
       "itemGroup.tabmore_metals": "More Metals",
+      "block.moremetals.tungsten_block": "Tungsten Block",
+      "block.moremetals.tungstenore": "Tungstenore",
       "item.moremetals.tungsten": "Tungsten"
     }
   },

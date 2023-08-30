@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moremetals:tungsten_block"
+    }
+  ],
+  "result": {
+    "item": "moremetals:tungsten",
+    "count": 9
+  }
+}
