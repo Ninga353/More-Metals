@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moremetals:tungsten"
+    },
+    "2": {
+      "item": "moremetals:tungsten"
+    },
+    "3": {
+      "item": "moremetals:tungsten"
+    },
+    "4": {
+      "item": "moremetals:tungsten"
+    },
+    "5": {
+      "item": "moremetals:tungsten"
+    },
+    "6": {
+      "item": "moremetals:tungsten"
+    },
+    "7": {
+      "item": "moremetals:tungsten"
+    },
+    "8": {
+      "item": "moremetals:tungsten"
+    }
+  },
+  "result": {
+    "item": "moremetals:tungsten_armor_chestplate",
+    "count": 1
+  }
+}

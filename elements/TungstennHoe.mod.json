@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tungstenn_hoe",
+    "customModelName": "Normal",
+    "name": "Tungstenn Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MoreMetals"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.4000000000000001,
+    "enchantability": 10,
+    "damageVsEntity": 1.0,
+    "usageCount": 1561,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Tungsten"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

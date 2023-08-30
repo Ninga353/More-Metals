@@ -1,6 +1,19 @@
 {
+  "item.moremetals.tungsten_armor_boots": "Tungsten Boots",
+  "item.moremetals.tungsten_staff_red": "Tungsten Staff Red",
+  "item.moremetals.tungstenn_sword": "Tungstenn Sword",
   "itemGroup.tabmore_metals": "More Metals",
+  "item.moremetals.tungsten_armor_chestplate": "Tungsten Body",
   "block.moremetals.tungsten_block": "Tungsten Block",
+  "block.moremetals.red_power_crystal_block": "Red Power Crystal Block",
+  "item.moremetals.tungsten_armor_leggings": "Tungsten Leggings",
+  "item.moremetals.tungstenn_pickaxe": "Tungstenn Pickaxe",
+  "item.moremetals.tungstenn_hoe": "Tungstenn Hoe",
+  "block.moremetals.red_power_crystal_ore": "Red Power Crystal Ore",
+  "item.moremetals.red_power_crystal": "Red Power Crystal",
+  "item.moremetals.tungstenn_shovel": "Tungstenn Shovel",
+  "item.moremetals.tungsten_armor_helmet": "Tungsten Helmet",
   "block.moremetals.tungstenore": "Tungstenore",
-  "item.moremetals.tungsten": "Tungsten"
+  "item.moremetals.tungsten": "Tungsten",
+  "item.moremetals.tungstenn_axe": "Tungstenn Axe"
 }

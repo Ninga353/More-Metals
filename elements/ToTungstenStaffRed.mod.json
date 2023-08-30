@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:RedPowerCrystalBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TungstenStaffRed"
+    },
+    "name": "to_tungsten_staff_red",
+    "namespace": "mod"
+  }
+}

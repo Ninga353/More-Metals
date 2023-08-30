@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "moremetals:tungsten_block"
+    },
+    "2": {
+      "item": "moremetals:red_power_crystal_block"
+    },
+    "4": {
+      "item": "moremetals:tungsten_block"
+    },
+    "5": {
+      "item": "moremetals:tungsten_block"
+    },
+    "6": {
+      "item": "moremetals:tungsten_block"
+    }
+  },
+  "result": {
+    "item": "moremetals:tungsten_staff_red",
+    "count": 1
+  }
+}

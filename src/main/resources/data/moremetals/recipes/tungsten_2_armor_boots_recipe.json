@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "moremetals:tungsten"
+    },
+    "2": {
+      "item": "moremetals:tungsten"
+    },
+    "3": {
+      "item": "moremetals:tungsten"
+    },
+    "5": {
+      "item": "moremetals:tungsten"
+    }
+  },
+  "result": {
+    "item": "moremetals:tungsten_armor_boots",
+    "count": 1
+  }
+}

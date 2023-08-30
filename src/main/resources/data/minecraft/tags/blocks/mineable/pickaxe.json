@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "moremetals:tungstenore",
-    "moremetals:tungsten_block"
+    "moremetals:tungsten_block",
+    "moremetals:red_power_crystal_ore",
+    "moremetals:red_power_crystal_block"
   ]
 }

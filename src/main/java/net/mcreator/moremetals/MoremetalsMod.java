@@ -28,6 +28,7 @@ import net.minecraft.network.FriendlyByteBuf;
 
 import net.mcreator.moremetals.init.MoremetalsModTabs;
 import net.mcreator.moremetals.init.MoremetalsModItems;
+import net.mcreator.moremetals.init.MoremetalsModEntities;
 import net.mcreator.moremetals.init.MoremetalsModBlocks;
 
 import java.util.function.Supplier;
@@ -48,6 +49,7 @@ public class MoremetalsMod {
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 		MoremetalsModBlocks.REGISTRY.register(bus);
 		MoremetalsModItems.REGISTRY.register(bus);
+		MoremetalsModEntities.REGISTRY.register(bus);
 
 	}
 

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "moremetals:tungsten"
+    },
+    "1": {
+      "item": "moremetals:tungsten"
+    },
+    "2": {
+      "item": "moremetals:tungsten"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moremetals:tungstenn_pickaxe",
+    "count": 1
+  }
+}

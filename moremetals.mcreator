@@ -62,16 +62,250 @@
       "locked_code": false,
       "registry_name": "to_tungsten_from_block",
       "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennPickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_pickaxe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennAxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_axe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennSword",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_sword",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennShovel",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_shovel",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennHoe",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_hoe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_pickaxe_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennAxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_axe_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennSwordRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_sword_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennShovelRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_shovel_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstennHoeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungstenn_hoe_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenArmor",
+      "type": "armor",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "Tungsten2ArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_2_armor_helmet_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "Tungsten2ArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_2_armor_body_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "Tungsten2ArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_2_armor_leggings_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "Tungsten2ArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_2_armor_boots_recipe",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "RedPowerCrystal",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_power_crystal",
+      "path": "~/Power Crystals"
+    },
+    {
+      "name": "RedPowerCrystalOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_power_crystal_ore",
+      "path": "~/Power Crystals"
+    },
+    {
+      "name": "TungstenStaffRedProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_staff_red_projectile_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "TungstenStaffRed",
+      "type": "rangeditem",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tungsten_staff_red",
+      "path": "~/Tungsten"
+    },
+    {
+      "name": "RedPowerCrystalBlock",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_power_crystal_block",
+      "path": "~/Power Crystals"
+    },
+    {
+      "name": "ToRedpowerCrystalBlock",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_redpower_crystal_block",
+      "path": "~/Power Crystals"
+    },
+    {
+      "name": "FromRedPowerCrystalBlock",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "from_red_power_crystal_block",
+      "path": "~/Power Crystals"
+    },
+    {
+      "name": "ToTungstenStaffRed",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_tungsten_staff_red",
+      "path": "~/Tungsten"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.moremetals.tungsten_armor_boots": "Tungsten Boots",
+      "item.moremetals.tungsten_staff_red": "Tungsten Staff Red",
+      "item.moremetals.tungstenn_sword": "Tungstenn Sword",
       "itemGroup.tabmore_metals": "More Metals",
+      "item.moremetals.tungsten_armor_chestplate": "Tungsten Body",
       "block.moremetals.tungsten_block": "Tungsten Block",
+      "block.moremetals.red_power_crystal_block": "Red Power Crystal Block",
+      "item.moremetals.tungsten_armor_leggings": "Tungsten Leggings",
+      "item.moremetals.tungstenn_pickaxe": "Tungstenn Pickaxe",
+      "item.moremetals.tungstenn_hoe": "Tungstenn Hoe",
+      "block.moremetals.red_power_crystal_ore": "Red Power Crystal Ore",
+      "item.moremetals.red_power_crystal": "Red Power Crystal",
+      "item.moremetals.tungstenn_shovel": "Tungstenn Shovel",
+      "item.moremetals.tungsten_armor_helmet": "Tungsten Helmet",
       "block.moremetals.tungstenore": "Tungstenore",
-      "item.moremetals.tungsten": "Tungsten"
+      "item.moremetals.tungsten": "Tungsten",
+      "item.moremetals.tungstenn_axe": "Tungstenn Axe"
     }
   },
   "foldersRoot": {
@@ -79,6 +313,10 @@
     "children": [
       {
         "name": "Tungsten",
+        "children": []
+      },
+      {
+        "name": "Power Crystals",
         "children": []
       }
     ]

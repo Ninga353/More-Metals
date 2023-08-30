@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "1": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "2": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "3": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "4": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "5": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "6": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "7": {
+      "item": "moremetals:red_power_crystal"
+    },
+    "8": {
+      "item": "moremetals:red_power_crystal"
+    }
+  },
+  "result": {
+    "item": "moremetals:red_power_crystal_block",
+    "count": 1
+  }
+}
